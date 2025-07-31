@@ -33,8 +33,8 @@
 /* Responsive Design */
 @media (max-width: 480px) {
   .scroll-to-top-btn {
-    bottom: 20px;
-    right: 20px;
+    bottom: 5%;
+    right: 5%;
     width: 45px;
     height: 45px;
     font-size: var(--font-size-base);
